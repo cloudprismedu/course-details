@@ -1,0 +1,88 @@
+# AWS Cloud Solutions Architect
+
+![aws-aolutions-architec](Images/aws-solutions-architect.png)
+
+AWS Solutions Architect training from CloudPrism Technologies, one of the top-nutch AWS training organization in Hyderabad, INDIA help you acquire complete knowledge and skills on AWS Cloud with real-world projects and case studies. Our AWS Cloud Solutions Architect course enables essential concepts, including Compute, Storage, Networking and Security, Advanced Architecting, Cloud Practitioning and System Operations. Our trainers have a decade of experience in AWS Cloud. They are working professional as AWS Professionals in top-nutch MNC and IT Compaines across the world.
+
+After completing the AWS Cloud Solutions Architect training from CloudPrism Technologies, every aspirant acquires a dream job in IT as a Cloud Solutions engineer. The trainers of CloudPrism Technologies help aspirants to understand the Amazon Web Services Concepts in an easy way and crack different job opportunities in the cloud computing world. 
+
+Our AWS Cloud Solutions Architect Course cirrculam includes every advanced and industry trend AWS Concepts. Therefore, aspirants learn the best practices, upcoming trends, and core concepts in the AWS architecture and easily crack any interviews. The AWS Solutions Architect course is outlined top AWS elements, namely VPC, Route 53, VPN, ELB, EBS, S3, EFS, IAM, EC2, Auto Scaling Groups, CloudWatch, Systems Manager, RDS, CloudFront, AWS WAF, AWS Certificate Manager, AWS KMS and many more.
+
+## Key Highlights of Our Course:
+
+-   Practical assignments for all services
+-   Learn from top IT experts having 18+ years of experience
+-   Complete Lab Support
+-   Providing step-by-step Lab documents with screen shots
+-   Cheat sheets to prepare for interview
+
+## Who Can enroll for a AWS Certified Solutions Architect Course:
+
+-   Solutions Architects or Programmers looking to build AWS Skills
+-   System Administrators (or) Network Administrators
+-   Freshers
+-   Professionals looking to upgrade their skills in the cloud computing domain can take up this AWS Solutions Architect course.
+
+### Benefits:
+
+-   Interview Preparation   
+    -   Resume Preparation
+    -   Mock Interviews
+    -   Clarify Interview Questions
+-   Lab Documents for each AWS service
+-   Mock Tests on AWS Concepts
+-   In-Depth AWS syllabus
+-   Architecture Based training
+-   Sample Architectures to practice
+
+**Enroll today to reserve your desk in Cloud Computing World.**
+
+## Syllabus
+
+<deatils>
+    <sumamry>Module 1: Linux Fundamentals</summary>
+    -   Overview of basics commands
+    -   vim editor modes
+    -   Filesystem Hierarchy - Basic Concepts
+    -   File and Directories Creation
+    -   Filter commands (head, tail, more, less)
+    -   Creating, Modifyin and Deleting users and groups
+    -   important files related
+    -   Linux Permissions
+    -   Software Management
+    -   Yum Commands
+    -   Services and Daemons
+    -   Different Runlevels
+</details>
+<details>
+    <summary>Module 2: Introduction to Cloud Computing & AWS</summary>
+    -   What is Cloud Computing
+    -   Features and Benefits of Cloud Computing
+    -   Types Of Cloud Computing Deployment Models
+    -   Types of Cloud Computing Services
+    -   Features Of AWS
+    -   Describe about Various Services in AWS
+    -   Global Infrastructure
+    -   Create a free tier account in AWS and onboarding
+    -   Introduction AWS Management Console
+</details>
+<details>
+    <sumamry>Module 3: Networking & Content Delivery</summary>
+    -   Networking Concepts
+    -   AWS Networking Services
+    -   Undersatnding AWS Implementation
+    -   Amazon VPC Basics
+    -   Amazon VPC
+    -   AWS Transit Gateway
+    -   AWS Direct COnnect
+    -   AWS Site-to-Site VPN
+    -   AWS Client VPN
+    -   AWS Cloud Map
+    -   Amazon CloudFront
+    -   Amazon Route 53
+    -   AWS Shield
+    -   AWS WAF
+    - AWS Firewall Manager
+</details>
+
+
