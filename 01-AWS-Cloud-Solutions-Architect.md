@@ -40,7 +40,8 @@ Our AWS Cloud Solutions Architect Course cirrculam includes every advanced and i
 ## Syllabus
 
 <details>
-    <sumamry>Module 1: Linux Fundamentals</summary>
+    <summary>Module 1: Linux Fundamentals</summary>
+
 -   Overview of basics commands
 -   vim editor modes
 -   Filesystem Hierarchy - Basic Concepts
@@ -56,6 +57,7 @@ Our AWS Cloud Solutions Architect Course cirrculam includes every advanced and i
 </details>
 <details>
     <summary>Module 2: Introduction to Cloud Computing & AWS</summary>
+
 -   What is Cloud Computing
 -   Features and Benefits of Cloud Computing
 -   Types Of Cloud Computing Deployment Models
@@ -67,7 +69,8 @@ Our AWS Cloud Solutions Architect Course cirrculam includes every advanced and i
 -   Introduction AWS Management Console
 </details>
 <details>
-    <sumamry>Module 3: Networking & Content Delivery</summary>
+    <summary>Module 3: Networking & Content Delivery</summary>
+
 -   Networking Concepts
 -   AWS Networking Services
 -   Undersatnding AWS Implementation
@@ -82,7 +85,7 @@ Our AWS Cloud Solutions Architect Course cirrculam includes every advanced and i
 -   Amazon Route 53
 -   AWS Shield
 -   AWS WAF
-- AWS Firewall Manager
+-   AWS Firewall Manager
 </details>
 
 
