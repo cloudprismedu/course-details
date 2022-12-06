@@ -39,50 +39,50 @@ Our AWS Cloud Solutions Architect Course cirrculam includes every advanced and i
 
 ## Syllabus
 
-<deatils>
+<details>
     <sumamry>Module 1: Linux Fundamentals</summary>
-    -   Overview of basics commands
-    -   vim editor modes
-    -   Filesystem Hierarchy - Basic Concepts
-    -   File and Directories Creation
-    -   Filter commands (head, tail, more, less)
-    -   Creating, Modifyin and Deleting users and groups
-    -   important files related
-    -   Linux Permissions
-    -   Software Management
-    -   Yum Commands
-    -   Services and Daemons
-    -   Different Runlevels
+-   Overview of basics commands
+-   vim editor modes
+-   Filesystem Hierarchy - Basic Concepts
+-   File and Directories Creation
+-   Filter commands (head, tail, more, less)
+-   Creating, Modifyin and Deleting users and groups
+-   important files related
+-   Linux Permissions
+-   Software Management
+-   Yum Commands
+-   Services and Daemons
+-   Different Runlevels
 </details>
 <details>
     <summary>Module 2: Introduction to Cloud Computing & AWS</summary>
-    -   What is Cloud Computing
-    -   Features and Benefits of Cloud Computing
-    -   Types Of Cloud Computing Deployment Models
-    -   Types of Cloud Computing Services
-    -   Features Of AWS
-    -   Describe about Various Services in AWS
-    -   Global Infrastructure
-    -   Create a free tier account in AWS and onboarding
-    -   Introduction AWS Management Console
+-   What is Cloud Computing
+-   Features and Benefits of Cloud Computing
+-   Types Of Cloud Computing Deployment Models
+-   Types of Cloud Computing Services
+-   Features Of AWS
+-   Describe about Various Services in AWS
+-   Global Infrastructure
+-   Create a free tier account in AWS and onboarding
+-   Introduction AWS Management Console
 </details>
 <details>
     <sumamry>Module 3: Networking & Content Delivery</summary>
-    -   Networking Concepts
-    -   AWS Networking Services
-    -   Undersatnding AWS Implementation
-    -   Amazon VPC Basics
-    -   Amazon VPC
-    -   AWS Transit Gateway
-    -   AWS Direct COnnect
-    -   AWS Site-to-Site VPN
-    -   AWS Client VPN
-    -   AWS Cloud Map
-    -   Amazon CloudFront
-    -   Amazon Route 53
-    -   AWS Shield
-    -   AWS WAF
-    - AWS Firewall Manager
+-   Networking Concepts
+-   AWS Networking Services
+-   Undersatnding AWS Implementation
+-   Amazon VPC Basics
+-   Amazon VPC
+-   AWS Transit Gateway
+-   AWS Direct COnnect
+-   AWS Site-to-Site VPN
+-   AWS Client VPN
+-   AWS Cloud Map
+-   Amazon CloudFront
+-   Amazon Route 53
+-   AWS Shield
+-   AWS WAF
+- AWS Firewall Manager
 </details>
 
 
