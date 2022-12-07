@@ -42,8 +42,8 @@ Our AWS Cloud Solutions Architect Course cirrculam includes every advanced and i
 <details>
     <summary>Module 1: Linux Fundamentals</summary>
 
--   Overview of basics commands
--   vim editor modes
+    |   Overview of basics commands |
+    |   vim editor modes            |
 -   Filesystem Hierarchy - Basic Concepts
 -   File and Directories Creation
 -   Filter commands (head, tail, more, less)
