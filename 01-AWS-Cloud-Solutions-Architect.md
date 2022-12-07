@@ -44,16 +44,16 @@ Our AWS Cloud Solutions Architect Course cirrculam includes every advanced and i
 
     -   Overview of basics commands
     -   vim editor modes
--   Filesystem Hierarchy - Basic Concepts
--   File and Directories Creation
--   Filter commands (head, tail, more, less)
--   Creating, Modifyin and Deleting users and groups
--   important files related
--   Linux Permissions
--   Software Management
--   Yum Commands
--   Services and Daemons
--   Different Runlevels
+    -   Filesystem Hierarchy - Basic Concepts
+    -   File and Directories Creation
+    -   Filter commands (head, tail, more, less)
+    -   Creating, Modifyin and Deleting users and groups
+    -   important files related
+    -   Linux Permissions
+    -   Software Management
+    -   Yum Commands
+    -   Services and Daemons
+    -   Different Runlevels
 </details>
 <details>
     <summary>Module 2: Introduction to Cloud Computing & AWS</summary>
