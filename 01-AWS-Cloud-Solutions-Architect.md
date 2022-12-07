@@ -85,6 +85,7 @@ Our AWS Cloud Solutions Architect Course cirrculam includes every advanced and i
 </details>
 <details>
     <summary>Module 4: Security, Identity and Compliance</summary>
+    
     -   AWS Identity and Access Management (IAM)
     -   AWS Directory Service
     -   AWS Firewall Manager
@@ -95,6 +96,7 @@ Our AWS Cloud Solutions Architect Course cirrculam includes every advanced and i
 </details>
 <details>
     <summary>Module 5: Compute</summary>
+    
     -   Amazon EC2
     -   Amazon EC2 Image Builder
     -   Auto Scaling Groups
@@ -102,6 +104,7 @@ Our AWS Cloud Solutions Architect Course cirrculam includes every advanced and i
 </details>
 <details>
     <summary>Module 6: Storage</summary>
+    
     -   Amazon S3
     -   AWS Backup
     -   Amazon EBS
@@ -109,12 +112,14 @@ Our AWS Cloud Solutions Architect Course cirrculam includes every advanced and i
 </details>
 <details>
     <summary>Module 7: Database</summary>
+    
     -   Amazon RDS
     -   Amazon DynamoDB
     -   Amazon ElasticCache
 </details>
 <details>
     <summary>Module 8: Management & Governance</summary>
+    
     -   Amazon CloudWatch
     -   AWS CloudTrail
     -   AWS Control Tower
@@ -123,25 +128,6 @@ Our AWS Cloud Solutions Architect Course cirrculam includes every advanced and i
     -   AWS Trusted Advisor
 <details>
     <summary>Module 9: Cloud Financial Management</summary>
-
-## Syllabus:
-
-|Module Name| Services Coverd   |
-| --------- | ----------------- |
-|   Module 1: Linux Fundamentals  |   Overview of basics commands |
-|                                 |   vim editor modes            |
-|                                 |   Filesystem Hierarchy - Basic Concepts    |
-|                                 |   File and Directories Creation    |
-|                                 |   Filter commands (head, tail, more, less)    |
-|                                 |   Creating, Modifyin and Deleting users and groups    |
-|                                 |   important files related |
-|                                 |   Linux Permissions   |
-|                                 |   Software Management |
-|                                 |   Yum Commands    |
-|                                 |   Services and Daemons    |
-|                                 |   Different Runlevels |
-|   Module 2: Introduction to Cloud Computing & AWS | What is Cloud Computing   |
-
-
+</details>
 
 
