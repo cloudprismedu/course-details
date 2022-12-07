@@ -142,3 +142,7 @@ Our **AWS Cloud Solutions Architect** Course cirrculam includes every advanced a
 </details>
 
 ![aws-services-list](Images/AWS-list.png)
+
+## AWS Certifications:
+
+![aws-certifications](Images/AWS-Cerfified.png)
