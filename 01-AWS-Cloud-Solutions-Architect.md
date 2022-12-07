@@ -58,69 +58,69 @@ Our AWS Cloud Solutions Architect Course cirrculam includes every advanced and i
 <details>
     <summary>Module 2: Introduction to Cloud Computing & AWS</summary>
 
--   What is Cloud Computing
--   Features and Benefits of Cloud Computing
--   Types Of Cloud Computing Deployment Models
--   Types of Cloud Computing Services
--   Features Of AWS
--   Describe about Various Services in AWS
--   Global Infrastructure
--   Create a free tier account in AWS and onboarding
--   Introduction AWS Management Console
+    -   What is Cloud Computing
+    -   Features and Benefits of Cloud Computing
+    -   Types Of Cloud Computing Deployment Models
+    -   Types of Cloud Computing Services
+    -   Features Of AWS
+    -   Describe about Various Services in AWS
+    -   Global Infrastructure
+    -   Create a free tier account in AWS and onboarding
+    -   Introduction AWS Management Console
 </details>
 <details>
     <summary>Module 3: Networking & Content Delivery</summary>
 
--   Networking Concepts
--   AWS Networking Services
--   Undersatnding AWS Implementation
--   Amazon VPC
--   AWS Transit Gateway
--   AWS Direct Connect
--   AWS Site-to-Site VPN
--   AWS Client VPN
--   AWS Cloud Map
--   Amazon CloudFront
--   Amazon Route 53
+    -   Networking Concepts
+    -   AWS Networking Services
+    -   Undersatnding AWS Implementation
+    -   Amazon VPC
+    -   AWS Transit Gateway
+    -   AWS Direct Connect
+    -   AWS Site-to-Site VPN
+    -   AWS Client VPN
+    -   AWS Cloud Map
+    -   Amazon CloudFront
+    -   Amazon Route 53
 </details>
 <details>
     <summary>Module 4: Security, Identity and Compliance</summary>
--   AWS Identity and Access Management (IAM)
--   AWS Directory Service
--   AWS Firewall Manager
--   AWS Network Firewall
--   AWS Security Hub
--   AWS WAF
--   AWS Shield
+    -   AWS Identity and Access Management (IAM)
+    -   AWS Directory Service
+    -   AWS Firewall Manager
+    -   AWS Network Firewall
+    -   AWS Security Hub
+    -   AWS WAF
+    -   AWS Shield
 </details>
 <details>
     <summary>Module 5: Compute</summary>
--   Amazon EC2
--   Amazon EC2 Image Builder
--   Auto Scaling Groups
--   ELB
+    -   Amazon EC2
+    -   Amazon EC2 Image Builder
+    -   Auto Scaling Groups
+    -   ELB
 </details>
 <details>
     <summary>Module 6: Storage</summary>
--   Amazon S3
--   AWS Backup
--   Amazon EBS
--   Amazon EFS
+    -   Amazon S3
+    -   AWS Backup
+    -   Amazon EBS
+    -   Amazon EFS
 </details>
 <details>
     <summary>Module 7: Database</summary>
--   Amazon RDS
--   Amazon DynamoDB
--   Amazon ElasticCache
+    -   Amazon RDS
+    -   Amazon DynamoDB
+    -   Amazon ElasticCache
 </details>
 <details>
     <summary>Module 8: Management & Governance</summary>
--   Amazon CloudWatch
--   AWS CloudTrail
--   AWS Control Tower
--   AWS Organizations
--   AWS Systems Manager
--   AWS Trusted Advisor
+    -   Amazon CloudWatch
+    -   AWS CloudTrail
+    -   AWS Control Tower
+    -   AWS Organizations
+    -   AWS Systems Manager
+    -   AWS Trusted Advisor
 <details>
     <summary>Module 9: Cloud Financial Management</summary>
 
