@@ -33,7 +33,7 @@ Our **AWS Cloud Solutions Architect** Course cirrculam includes every advanced a
 -   Mock Tests on AWS Concepts
 -   In-Depth AWS syllabus
 -   Architecture Based training
--   Sample Architectures to practice
+-   Real-World Architectures to practice
 
 ## What will students learn in your course?
 
@@ -143,6 +143,6 @@ Our **AWS Cloud Solutions Architect** Course cirrculam includes every advanced a
 
 ![aws-services-list](Images/AWS-list.png)
 
-## AWS Certifications:
+## AWS Certifications List:
 
 ![aws-certifications](Images/AWS-Cerfified.png)

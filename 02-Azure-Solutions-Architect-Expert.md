@@ -12,7 +12,8 @@ The **Microsoft Azure Solutions Architect Expert** course will teach you core Mi
 -   Deploy, Manage and Monitor Virtual Machines and Configure Virtual Networks 
 -   Manage and Secure Identities in Azure 
 -   Implement and Manage Application Services and PaaS 
--   Design Storage, Security, Cost, Integration & Migration for Azure Cloud 
+-   Design Storage, Security, Cost, Integration & Migration for Azure Cloud
+
 ## Who should go for this **Microsoft Azure Solutions Architect Expert** training?
 
 -   Developers/IT Administrators who already have knowledge of Azure Cloud 
