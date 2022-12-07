@@ -111,7 +111,7 @@ Our AWS Cloud Solutions Architect Course cirrculam includes every advanced and i
     -   Amazon EFS
 </details>
 <details>
-    <summary>Module 7: Database</summary>
+    <summary>Module 7: Database Services</summary>
     
     -   Amazon RDS
     -   Amazon DynamoDB
@@ -127,7 +127,10 @@ Our AWS Cloud Solutions Architect Course cirrculam includes every advanced and i
     -   AWS Systems Manager
     -   AWS Trusted Advisor
 <details>
-    <summary>Module 9: Cloud Financial Management</summary>
+    <summary>Module 9: Other Services</summary>
+
+    -   Amazon SNS
+    -   Amazon SQS 
 </details>
 
 
