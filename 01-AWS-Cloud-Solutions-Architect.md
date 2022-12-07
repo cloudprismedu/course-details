@@ -23,7 +23,7 @@ Our AWS Cloud Solutions Architect Course cirrculam includes every advanced and i
 -   Freshers
 -   Professionals looking to upgrade their skills in the cloud computing domain can take up this AWS Solutions Architect course.
 
-### Benefits:
+## Benefits:
 
 -   Interview Preparation   
     -   Resume Preparation
@@ -37,7 +37,7 @@ Our AWS Cloud Solutions Architect Course cirrculam includes every advanced and i
 
 **Enroll today to reserve your desk in Cloud Computing World.**
 
-## Syllabus
+## Syllabus:
 
 <details>
     <summary>Module 1: Linux Fundamentals</summary>
