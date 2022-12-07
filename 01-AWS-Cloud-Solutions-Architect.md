@@ -74,18 +74,74 @@ Our AWS Cloud Solutions Architect Course cirrculam includes every advanced and i
 -   Networking Concepts
 -   AWS Networking Services
 -   Undersatnding AWS Implementation
--   Amazon VPC Basics
 -   Amazon VPC
 -   AWS Transit Gateway
--   AWS Direct COnnect
+-   AWS Direct Connect
 -   AWS Site-to-Site VPN
 -   AWS Client VPN
 -   AWS Cloud Map
 -   Amazon CloudFront
 -   Amazon Route 53
--   AWS Shield
--   AWS WAF
--   AWS Firewall Manager
 </details>
+<details>
+    <summary>Module 4: Security, Identity and Compliance</summary>
+-   AWS Identity and Access Management (IAM)
+-   AWS Directory Service
+-   AWS Firewall Manager
+-   AWS Network Firewall
+-   AWS Security Hub
+-   AWS WAF
+-   AWS Shield
+</details>
+<details>
+    <summary>Module 5: Compute</summary>
+-   Amazon EC2
+-   Amazon EC2 Image Builder
+-   Auto Scaling Groups
+-   ELB
+</details>
+<details>
+    <summary>Module 6: Storage</summary>
+-   Amazon S3
+-   AWS Backup
+-   Amazon EBS
+-   Amazon EFS
+</details>
+<details>
+    <summary>Module 7: Database</summary>
+-   Amazon RDS
+-   Amazon DynamoDB
+-   Amazon ElasticCache
+</details>
+<details>
+    <summary>Module 8: Management & Governance</summary>
+-   Amazon CloudWatch
+-   AWS CloudTrail
+-   AWS Control Tower
+-   AWS Organizations
+-   AWS Systems Manager
+-   AWS Trusted Advisor
+<details>
+    <summary>Module 9: Cloud Financial Management</summary>
+
+## Syllabus:
+
+|Module Name| Services Coverd   |
+| --------- | ----------------- |
+|   Module 1: Linux Fundamentals  |   Overview of basics commands |
+|                                 |   vim editor modes            |
+|                                 |   Filesystem Hierarchy - Basic Concepts    |
+|                                 |   File and Directories Creation    |
+|                                 |   Filter commands (head, tail, more, less)    |
+|                                 |   Creating, Modifyin and Deleting users and groups    |
+|                                 |   important files related |
+|                                 |   Linux Permissions   |
+|                                 |   Software Management |
+|                                 |   Yum Commands    |
+|                                 |   Services and Daemons    |
+|                                 |   Different Runlevels |
+|   Module 2: Introduction to Cloud Computing & AWS | What is Cloud Computing   |
+
+
 
 
