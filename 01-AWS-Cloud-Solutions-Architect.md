@@ -126,6 +126,7 @@ Our AWS Cloud Solutions Architect Course cirrculam includes every advanced and i
     -   AWS Organizations
     -   AWS Systems Manager
     -   AWS Trusted Advisor
+</details>
 <details>
     <summary>Module 9: Other Services</summary>
 
