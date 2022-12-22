@@ -2,7 +2,7 @@
 
 ![aws-aolutions-architec](Images/aws-solutions-architect.png)
 
-**AWS Solutions Architect** training course from CloudPrism Technologies, one of the top-nutch Cloud Computing & DevOps training organization in Hyderabad, INDIA help you acquire complete knowledge and skills on AWS Cloud with real-world projects and case studies. Our **AWS Cloud Solutions Architect** course enables essential concepts, including Compute, Storage, Networking and Security, Advanced Architecting, Cloud Practitioning and System Operations. 
+**AWS Solutions Architect** training course from CloudPrism Technologies, one of the top-nutch Cloud Training program offering by CloudPrism Technologies. The AWS Solutions Architect training, will  help you acquire complete knowledge and skills on AWS Cloud with real-world projects and case studies. Our **AWS Cloud Solutions Architect** course enables essential concepts, including Compute, Storage, Networking and Security, Advanced Architecting, Cloud Practitioning and System Operations. 
 
 After completing the **AWS Cloud Solutions Architect** training from CloudPrism Technologies, every aspirant acquires a dream job in IT as a Cloud Solutions engineer. The trainers of CloudPrism Technologies help, aspirants to understand the Amazon Web Services Concepts in an easy way and crack different job opportunities in the cloud computing world. 
 
@@ -15,10 +15,10 @@ Our **AWS Cloud Solutions Architect** Course cirrculam includes every advanced a
 -   Complete Lab Support
 -   Providing step-by-step Lab documents with screen shots
 -   Cheat sheets to prepare for interviews
+-   Conducting Mock Tests
 
 ## **Who Can enroll for a AWS Certified Solutions Architect Course:**
 
--   Solutions Architects or Programmers looking to build AWS Skills
 -   System Administrators (or) Network Administrators
 -   Freshers who is intrested to learning AWS Cloud Computing.
 -   Professionals looking to upgrade their skills in the cloud computing domain can take up this AWS Solutions Architect course.
@@ -29,12 +29,12 @@ Our **AWS Cloud Solutions Architect** Course cirrculam includes every advanced a
     -   Resume Preparation
     -   Mock Interviews
     -   Clarify Interview Questions
--   Lab Documents for each Azure service
+-   Lab Documents for each AWS service
 -   Mock Tests to prepare in a best way
 -   In-Depth AWS syllabus
 -   Architecture Based training
 -   Real-World Architectures to Practical Lab Included
--   Azure Solutions Architect Expert Training adhered with International Standards
+-   AWS Solutions Architect Expert Training based on real-time use cases and Architectures.
 -   Highly qualified & expert Certified Trainers with vast experience
 -   Enrich with Industry best practices and case studies and present trends
 
@@ -42,11 +42,19 @@ Our **AWS Cloud Solutions Architect** Course cirrculam includes every advanced a
 ## **What will students learn in your course?**
 
 -   Knowledge and skills in compute, networking, storage, and database AWS services as well as AWS deployment and management services.
--   Knowledge and skills in deploying, managing, and operating workloads on AWS as well as implementing security controls and compliance requirements.
+-   Deploying, managing, and operating workloads on AWS as well as implementing security controls and compliance requirements.
 -   Knowledge and skills in using the AWS Management Console and the AWS Command Line Interface (CLI)Understanding of the AWS Well-Architected Framework, AWS networking, security services, and the AWS global infrastructure.
 -   Ability to identify which AWS services meet a given technical requirement and to define technical requirements for an AWS-based application.
 
-**Enroll today to reserve your desk in Cloud Computing World.**
+## **Carrer Benefits:**
+
+-   Become Eligible for Professional in Cloud Computing Jobs demanding background
+-   Fill the void of thousands of untapped High-Paying Jobs in Cloud Computing Industry
+-   Get Promoted in current profile with most in-demand skill
+-   Distinguish your profile from peers during Job Interviews
+-   Improve CV & LinkedIn Profile with professional development
+
+## *Enroll today to reserve your desk in Cloud Computing World.**
 
 ## **Syllabus:**
 
@@ -150,3 +158,33 @@ Our **AWS Cloud Solutions Architect** Course cirrculam includes every advanced a
 ## **AWS Certifications Path:**
 
 ![aws-certifications](Images/AWS-Cerfified.png)
+
+
+# Upcoming Batches:
+
+**View Schedule**
+**Enroll Now**
+
+# **FAQs**:
+
+### **Why Learn AWS?**
+
+AWS is one of the fastest growing cloud services with 1 million+ customers. Cloud skills are widely preferred by most of the large enterprises and companies validating more options and availabilities for job opportunities with lucrative salary packages.
+
+### **Can I get a free demo?**
+
+Yes of course, you can contact our team at www.cloudprismedu.com and we will schedule a demo for you.
+
+### **What are the Modes of AWS Training providing?**
+
+Currently, We provide Online training modes for students based on their time zones.
+
+### **How much is the course fee?**
+
+You can contact our team for further details regarding the fees. We will get back to you at the earliest.
+
+### **What are the prerequisites to learn AWS?**
+
+There are no specific requirements for enrolling in the AWS course training and our curriculum is designed in a format that can easily be understood by anyone.
+
+

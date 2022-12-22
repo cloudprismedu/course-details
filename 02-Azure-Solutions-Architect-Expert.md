@@ -2,11 +2,11 @@
 
 ![azure-solutions-architect](Images/azure-solutions-architect.png)
 
-**Microsoft Azure Solutions Architect Expert** training course from CloudPrism Technologies, one of the top-nutch Cloud and DevOps organization in Hyderabad, INDIA help you acquire complete knowledge and skills on AWS Cloud with real-world projects and case studies. Our **Microsoft Azure Solutions Architect Expert** course enables essential concepts, including Compute, Storage, Networking and Security, Advanced Architecting, Cloud Practitioning and System Operations. 
+**Azure Solutions Architect** training course from CloudPrism Technologies, one of the top-nutch Cloud Training program offering by CloudPrism Technologies. The **Azure Solutions Architect** training, will  help you acquire complete knowledge and skills on Microsoft Azure Cloud with real-world projects and case studies. Our **Azure Solutions Architect** course enables essential concepts, including Compute, Storage, Networking and Security, Advanced Architecting, Cloud Practitioning and System Operations. 
 
-After completing the **Microsoft Azure Solutions Architect Expert** training from CloudPrism Technologies, every aspirant acquires a dream job in IT as a Cloud Solutions engineer. The trainers of CloudPrism Technologies help, aspirants to understand the Microsoft Azure Cloud Concepts in an easy way and crack different job opportunities in the cloud computing world. 
+After completing the **Azure Solutions Architect** training from CloudPrism Technologies, every aspirant acquires a dream job in IT as a Cloud Solutions engineer. The trainers of CloudPrism Technologies help, aspirants to understand the Microsoft Azure Services Concepts in an easy way and crack different job opportunities in the cloud computing world. 
 
-Our **Microsoft Azure Solutions Architect Expert** Course cirrculam includes every advanced and industry trend Azure Concepts. Therefore, aspirants learn the best practices, upcoming trends, and core concepts in the Azure architecture and easily crack any interviews. 
+Our **Azure Solutions Architect** Course cirrculam includes every advanced and industry trend AWS Concepts. Therefore, aspirants learn the best practices, upcoming trends, and core concepts in the AWS architecture and easily crack any interviews. 
 
 ## **Key Highlights of Course:**
 
@@ -39,16 +39,29 @@ Our **Microsoft Azure Solutions Architect Expert** Course cirrculam includes eve
     -   Clarify Interview Questions
 -   Lab Documents for each Azure service
 -   Mock Tests to prepare in a best way
--   In-Depth AWS syllabus
+-   In-Depth Microsoft Azure syllabus
 -   Architecture Based training
 -   Real-World Architectures to Practical Lab Included
--   Azure Solutions Architect Expert Training adhered with International Standards
+-   Azure Solutions Architect Expert Training based on real-time use cases and Architectures.
 -   Highly qualified & expert Certified Trainers with vast experience
 -   Enrich with Industry best practices and case studies and present trends
 
 ## **What will students learn in your course?**
 
-**Enroll today to reserve your desk in Cloud Computing World.**
+-   Knowledge and skills in compute, networking, storage, and database Azure services as well as Azure deployment and management services.
+-   Deploying, managing, and operating workloads on Azure as well as implementing security controls and compliance requirements.
+-   Knowledge and skills in using the Azure Console and the Azure Command Line Interface (CLI) Understanding of the Azure Well-Architected Framework, Azure networking, security services, and the AWS global infrastructure.
+-   Ability to identify which Azure services meet a given technical requirement and to define technical requirements for an Azure-based application.
+
+## **Carrer Benefits:**
+
+-   Become Eligible for Professional in Cloud Computing Jobs demanding background
+-   Fill the void of thousands of untapped High-Paying Jobs in Cloud Computing Industry
+-   Get Promoted in current profile with most in-demand skill
+-   Distinguish your profile from peers during Job Interviews
+-   Improve CV & LinkedIn Profile with professional development
+
+## *Enroll today to reserve your desk in Cloud Computing World.**
 
 ## **Syllabus:**
 
@@ -154,12 +167,34 @@ Our **Microsoft Azure Solutions Architect Expert** Course cirrculam includes eve
 -   Design a Solution to log and Monitor Azure Resources
 </details>
 
-
-
-
-
-
 ![azure-services](Images/azure-services.png)
+
+# Upcoming Batches:
+
+**View Schedule**
+**Enroll Now**
+
+# **FAQs**:
+
+### **Why Learn Microsoft Azure?**
+
+Microsoft Azure is one of the fastest growing cloud services. Cloud skills are widely preferred by most of the large enterprises and companies validating more options and availabilities for job opportunities with lucrative salary packages.
+
+### **Can I get a free demo?**
+
+Yes of course, you can contact our team at www.cloudprismedu.com and we will schedule a demo for you.
+
+### **What are the Modes of AWS Training providing?**
+
+Currently, We provide Online training modes for students based on their time zones.
+
+### **How much is the course fee?**
+
+You can contact our team for further details regarding the fees. We will get back to you at the earliest.
+
+### **What are the prerequisites to learn Microsoft Azure?**
+
+There are no specific requirements for enrolling in the AWS course training and our curriculum is designed in a format that can easily be understood by anyone.
 
 ## **Azure Certifications Path:**
 
