@@ -16,14 +16,6 @@ Our **Azure Solutions Architect** Course cirrculam includes every advanced and i
 -   Providing step-by-step Lab documents with screen shots
 -   Cheat sheets to prepare for interviews
 
-## **What will you learn in this Course?**
-
--   Manage Azure Subscriptions, Resources, Storage and Server Migration 
--   Deploy, Manage and Monitor Virtual Machines and Configure Virtual Networks 
--   Manage and Secure Identities in Azure 
--   Implement and Manage Application Services and PaaS 
--   Design Storage, Security, Cost, Integration & Migration for Azure Cloud
-
 ## **Who Can enroll for a Microsoft Azure Solutions Architect Expert Course:**
 
 -   Developers/IT Administrators who already have knowledge of Azure Cloud 
@@ -46,7 +38,7 @@ Our **Azure Solutions Architect** Course cirrculam includes every advanced and i
 -   Highly qualified & expert Certified Trainers with vast experience
 -   Enrich with Industry best practices and case studies and present trends
 
-## **What will students learn in your course?**
+## **What will students learn in **Azure Solutions architect Expert** course?**
 
 -   Knowledge and skills in compute, networking, storage, and database Azure services as well as Azure deployment and management services.
 -   Deploying, managing, and operating workloads on Azure as well as implementing security controls and compliance requirements.
@@ -61,7 +53,7 @@ Our **Azure Solutions Architect** Course cirrculam includes every advanced and i
 -   Distinguish your profile from peers during Job Interviews
 -   Improve CV & LinkedIn Profile with professional development
 
-## *Enroll today to reserve your desk in Cloud Computing World.**
+## **Enroll today to reserve your desk in Cloud Computing World.**
 
 ## **Syllabus:**
 
