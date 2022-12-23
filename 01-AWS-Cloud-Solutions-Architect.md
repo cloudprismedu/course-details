@@ -61,6 +61,10 @@ Our **AWS Cloud Solutions Architect** Course cirrculam includes every advanced a
 <details>
     <summary>Module 1: Linux Fundamentals</summary>
 
+In this Module, you will learn about the history of Linux. How to install Linux, How to Use Linux, File System Management, Package Management, How to control Linux Using the Command Line, Basic Linux Security and much more. This Module will provide you with a good working knowledge of Linux from command Linux Prospective and preparing you to easily navigate through any of the major Linux distributions.
+
+## **Tpoics Covered:**
+
 -   Overview of basics commands
 -   vim editor modes
 -   Filesystem Hierarchy - Basic Concepts
@@ -77,6 +81,8 @@ Our **AWS Cloud Solutions Architect** Course cirrculam includes every advanced a
 <details>
     <summary>Module 2: Introduction to Cloud Computing & AWS</summary>
 
+In this module you will learn general cloud computing concepts, basics of Amazon Web Services (AWS) and gain an understaing of the fundamental systems on which the cloud is based. 
+
 -   What is Cloud Computing?
 -   Features and Benefits of Cloud Computing
 -   Types Of Cloud Computing Deployment Models
@@ -89,6 +95,10 @@ Our **AWS Cloud Solutions Architect** Course cirrculam includes every advanced a
 </details>
 <details>
     <summary>Module 3: Networking & Content Delivery</summary>
+
+In this module, you will learn how to design and maintain AWS network architectures that support AWS Services. This module will also help you to design and  Implement Secure Network Infrastructure in AWS.
+
+**Services You learn:**
 
 -   Networking Concepts
 -   AWS Networking Services
@@ -104,7 +114,11 @@ Our **AWS Cloud Solutions Architect** Course cirrculam includes every advanced a
 </details>
 <details>
     <summary>Module 4: Security, Identity and Compliance</summary>
-    
+
+In this module, you will learn fundamental AWS Cloud Security Concepts, including Access Control, data encryption methods, and how network access to your AWS infrastructure can be secured. We will address your security responsibility in the AWS Cloud and the different security oriented services available.
+
+**Services You learn:**
+
 -   AWS Identity and Access Management (IAM)
 -   AWS Directory Service
 -   AWS Firewall Manager
@@ -115,7 +129,11 @@ Our **AWS Cloud Solutions Architect** Course cirrculam includes every advanced a
 </details>
 <details>
     <summary>Module 5: Compute</summary>
-    
+
+In this module, you will learn understand the compute services available in AWS and how to launch an EC2 instance, Learn about auto-scaling and load balancing in AWS and much more.
+
+**Services You learn:**
+
 -   Amazon EC2
 -   Amazon EC2 Image Builder
 -   Auto Scaling Groups
@@ -123,7 +141,11 @@ Our **AWS Cloud Solutions Architect** Course cirrculam includes every advanced a
 </details>
 <details>
     <summary>Module 6: Storage</summary>
-    
+
+In this module, you will learn different types of AWS storage services, including S3, EBS and many more. you will understand different types of storage services and learn knowledge to confidently select the most appropriate storage services for your needs.
+
+**Services You learn:**
+
 -   Amazon S3
 -   AWS Backup
 -   Amazon EBS
@@ -131,14 +153,21 @@ Our **AWS Cloud Solutions Architect** Course cirrculam includes every advanced a
 </details>
 <details>
     <summary>Module 7: Database Services</summary>
-    
+
+AWS offers a wide range of database solutions to manage your data and it might be a bit touch to knowing which one to select. In this module, you will give you in depth understanding of Amazon's database services so that you can decision about which one is most suited for your needs.
+
+**Services You learn:**
+
 -   Amazon RDS
 -   Amazon DynamoDB
 -   Amazon ElasticCache
+-   AWS Aurora
 </details>
 <details>
     <summary>Module 8: Management & Governance</summary>
-    
+
+As your infrastructure grows within AWS overtime, it is important to understand of the different AWS cloud management tools available to help you keep things running smoothly. In this module you will learn multiple services which required to optimize, control and manage your AWS infrastructure in the most efficient way possible.
+
 -   Amazon CloudWatch
 -   AWS CloudTrail
 -   AWS Control Tower
