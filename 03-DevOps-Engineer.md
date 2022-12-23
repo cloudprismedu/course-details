@@ -1,4 +1,6 @@
-# **DevOps Engineer**
+# **DevOps Engineer:**
+
+![DevOps](Images/DevOps.jpg)
 
 **DevOps Engineer** training course from CloudPrism Technologies, one of the top-nutch DevOps Engineer Training program offering by CloudPrism Technologies. The DevOps Engineer training, will  help you acquire complete knowledge and skills on DevOps with real-world projects and case studies. Our **DevOps Engineer** course enables essential concepts, including Creating CI/CD Pipelines, Build and Deploying workloads in Docker and Kubernetes Clusters and learn Popular DevOps tools Kubernetes, Docker, Jenkins, TeamCity, Git/GitHub, Maven, Helm, Grafana, Prometheus, Loki, Terraform and much more with real-time Scenrios.
 
@@ -43,6 +45,25 @@ Our **DevOps Engineer** Course cirrculam includes every advanced and industry tr
 -   Highly qualified & expert Certified Trainers with vast experience
 -   Enrich with Industry best practices and case studies and present trends
 
+## **What will students learn in **DevOps Engineer** course?**
+
+-   Culture, Methodology and Improtance of DevOps
+-   Continuous Integration/Continuous deployment Strategies
+-   Deploy underlying infrastructure components to run MicroServices.
+-   Learn how to keep an eye on your deployments with proactive monitoing and alerting.
+
+## **Career Benefits:**
+
+-   Multiple Opportunities in the profession
+-   Continuously evolving practice
+-   Future proof your career
+-   Endless possibilities to learn and develop
+-   Make a real business impact
+-   Flexibility and enhanced benefits
+-   Better Job Opportunities.
+
+## **Enroll today to reserve your desk in Cloud Computing World.**
+
 ## **Tools Covered:**
 
 -   Linux Administration
@@ -56,3 +77,6 @@ Our **DevOps Engineer** Course cirrculam includes every advanced and industry tr
 -   Ansible
 -   Grafana/Prometheus
 -   Basics Of AWS DevOps and Azure DevOps
+
+
+    ![devops-tools](Images/devops-tools.png)

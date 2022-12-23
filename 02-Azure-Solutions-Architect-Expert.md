@@ -45,7 +45,7 @@ Our **Azure Solutions Architect** Course cirrculam includes every advanced and i
 -   Knowledge and skills in using the Azure Console and the Azure Command Line Interface (CLI) Understanding of the Azure Well-Architected Framework, Azure networking, security services, and the AWS global infrastructure.
 -   Ability to identify which Azure services meet a given technical requirement and to define technical requirements for an Azure-based application.
 
-## **Carrer Benefits:**
+## **Career Benefits:**
 
 -   Become Eligible for Professional in Cloud Computing Jobs demanding background
 -   Fill the void of thousands of untapped High-Paying Jobs in Cloud Computing Industry
