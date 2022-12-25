@@ -46,9 +46,7 @@ Our **AWS Cloud Solutions Architect** Course cirrculam includes every advanced a
 -   Knowledge and skills in using the AWS Management Console and the AWS Command Line Interface (CLI)Understanding of the AWS Well-Architected Framework, AWS networking, security services, and the AWS global infrastructure.
 -   Ability to identify which AWS services meet a given technical requirement and to define technical requirements for an AWS-based application.
 
-## **Care
-
-er Benefits:**
+## **Career Benefits:**
 
 -   Become Eligible for Professional in Cloud Computing Jobs demanding background
 -   Fill the void of thousands of untapped High-Paying Jobs in Cloud Computing Industry
