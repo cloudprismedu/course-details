@@ -1,5 +1,7 @@
 # **Kubernetes Administrator:**
 
+![cka](Images/cka-share.png)
+
 **Kubernetes Administrator** training course from CloudPrism Technologies, one of the top-nutch DevOps Engineer Training program offering by CloudPrism Technologies. The Kubernetes Administrator training, will  help you acquire complete knowledge and skills on DevOps with real-world projects and case studies. Our **Kubernetes Administrator** course enables essential concepts, including Cluster Installation, Configuration, Adding Storage, Configuring Networking and Security and Deploy workloads using manifest files and Helm charts, and much more with real-time Scenrios.
 
 After completing the **Kubernetes Administrator** training from CloudPrism Technologies, every aspirant acquires a dream job in IT as a Kubernetes Administrator. The trainers of CloudPrism Technologies help, aspirants to understand the Kubernetes Concepts in an easy way and crack different job opportunities. 
@@ -37,7 +39,8 @@ Our **Kubernetes Administrator** Course cirrculam includes every advanced and in
 -   Highly qualified & expert Certified Trainers with vast experience
 -   Enrich with Industry best practices and case studies and present trends
 
-# **What will learn in your course?**
+## **What will students learn in **Kubernetes Administrator
+** course?**
 
 -   How to Manage and Administrate a Kubernetes Cluster
 -   How to Build a Kubernetes Cluster From scratch
@@ -55,16 +58,25 @@ Our **Kubernetes Administrator** Course cirrculam includes every advanced and in
 
 ## *Enroll today to reserve your desk in Cloud Computing World.**
 
-# **Course Content:**
+# **Course Modules:**
 
--   Introduction
--   Core Concepts
--   Kubernetes architecture
--   Scheduling
--   Logging and Monitoring
--   Cluster Maintenance
--   Security
--   Storage
--   Networking
--   Troubleshooting
--   other Topics
+-   Module 1: Linux Fundamentals
+-   Module 2: Docker Fundamentals
+-   Module 3: Introduction
+-   Module 4: Core Concepts
+-   Module 5: Cluster Architecture
+-   Module 6: Containers
+-   Module 7: Workloads
+-   Module 8: Services, Loadbalancing and Networking
+-   Module 9: Storage
+-   Module 10: Configuration
+-   Module 11: Policies
+-   Module 12: Scheduling, Preemption and Eviction
+-   Module 13: Logging and Monitoring
+-   Module 14: Cluster Administration
+-   Module 15: Extending Kubernetes
+-   Module 16: Troubleshooting
+-   Module 17: Helm
+
+
+    ![k8s](Images/kubernetes-constructs-concepts-architecture.jpg)

@@ -1,6 +1,6 @@
 #   **Microsoft Azure Solutions Architect Expert:**
 
-![azure-solutions-architect](Images/azure-solutions-architect.png)
+![azure-solutions-architect](Images/azure-cert-1.webp)
 
 **Azure Solutions Architect** training course from CloudPrism Technologies, one of the top-nutch Cloud Training program offering by CloudPrism Technologies. The **Azure Solutions Architect** training, will  help you acquire complete knowledge and skills on Microsoft Azure Cloud with real-world projects and case studies. Our **Azure Solutions Architect** course enables essential concepts, including Compute, Storage, Networking and Security, Advanced Architecting, Cloud Practitioning and System Operations. 
 

@@ -1,6 +1,6 @@
 # **AWS Cloud Solutions Architect**
 
-![aws-aolutions-architec](Images/aws-solutions-architect.png)
+![aws-aolutions-architec](Images/aws-1.jpg)
 
 **AWS Solutions Architect** training course from CloudPrism Technologies, one of the top-nutch Cloud Training program offering by CloudPrism Technologies. The AWS Solutions Architect training, will  help you acquire complete knowledge and skills on AWS Cloud with real-world projects and case studies. Our **AWS Cloud Solutions Architect** course enables essential concepts, including Compute, Storage, Networking and Security, Advanced Architecting, Cloud Practitioning and System Operations. 
 
@@ -46,7 +46,9 @@ Our **AWS Cloud Solutions Architect** Course cirrculam includes every advanced a
 -   Knowledge and skills in using the AWS Management Console and the AWS Command Line Interface (CLI)Understanding of the AWS Well-Architected Framework, AWS networking, security services, and the AWS global infrastructure.
 -   Ability to identify which AWS services meet a given technical requirement and to define technical requirements for an AWS-based application.
 
-## **Career Benefits:**
+## **Care
+
+er Benefits:**
 
 -   Become Eligible for Professional in Cloud Computing Jobs demanding background
 -   Fill the void of thousands of untapped High-Paying Jobs in Cloud Computing Industry

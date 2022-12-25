@@ -64,7 +64,7 @@ Our **DevOps Engineer** Course cirrculam includes every advanced and industry tr
 
 ## **Enroll today to reserve your desk in Cloud Computing World.**
 
-## **Tools Covered:**
+## **Tools Covering:**
 
 -   Linux Administration
 -   Fundametls of Kubernetes
