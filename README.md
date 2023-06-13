@@ -3,13 +3,27 @@
 We are offering Following Cloud and DevOps Courses:
 
 -   Cloud Computing
-    -   Amazon AWS Solutions Architect
-    -   Microsoft Azure Solutions Architect Expert
+    - Amazon AWS
+        - AWS Cloud Practitioner
+        - Amazon Certified Solutions Architect - Professional
+        - AWS Certified Advanced Networking Speciality
+        - AWS Certified Security Speciality Training
+        - AWS SysOps Administrator Associate
+        - Master in AWS EKS - Elastic Kubernetes Service
+        - Master in AWS ECS - Elastic Container Service
+        - AWS DevOps 
+    - Microsoft Azure
+        -  Microsoft Azure Solutions Architect Expert
+        - Azure DevOps
 -   DevOps
-    -   Certified Kubernetes Administartion
-    -   Azure DevOps
-    -   AWS DevOps
-    -   DevOps Engineer
-    -   Azure AKS - Azure Kubernetes Service
-    -   Aws EKS - Elastic Kubernetes Service
--   Linux System Administration
+    - Certified Kubernetes Administartion (CKA)
+    - Docker Administration
+    - Jenkins Administration
+    - TeamCity Administration
+    - FluxCD
+    - ArgoCD
+    - TeamCity
+    - Helm
+    - Grafana-Prometheis-Loki
+- OS Administration
+    -  Linux System Administration
