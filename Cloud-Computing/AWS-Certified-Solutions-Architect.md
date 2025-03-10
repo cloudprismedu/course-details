@@ -1,6 +1,6 @@
 # AWS Solutions Architect:
 
-![aws-solution-architect](../../Amazon-AWS/AWS-Icons/aws-services.png)
+![aws-solution-architect](../Images/aws-services.png)
 
 ## 🔹 Course Overview
 - Designed for individuals who want to **design scalable, resilient, and cost-effective AWS architectures**.
